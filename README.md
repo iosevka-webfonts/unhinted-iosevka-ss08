@@ -1,6 +1,6 @@
-# Unhinted-iosevka-ss08 WebFont 17.1.0
+# Unhinted Iosevka SS08 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-ss08/Unhinted-iosevka-ss08.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka ss08 Web'` or `font-family: 'Unhinted iosevka ss08 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-ss08/unhinted-iosevka-ss08.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka SS08 Web'` or `font-family: 'Iosevka SS08 Web'`.
